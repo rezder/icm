@@ -14,7 +14,7 @@ import os
 import numpy as np
 
 import sensors as sen
-##sys.path.append('/home/rho/Python/pi/havsmolf/')
+# sys.path.append('/home/rho/Python/pi/havsmolf/')
 sys.path.insert(0, '/home/rho/Python/pi/havsmolf/')
 import utill
 import filters
