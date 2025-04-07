@@ -1,4 +1,5 @@
 import sys
+
 sys.path.append(r'/home/rho/Python/pi/havsmolf/')
 from utill import VoltDiv
 

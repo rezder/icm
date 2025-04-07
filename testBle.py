@@ -1,7 +1,8 @@
 import threading
 import signal
-import sensors as sen
 import asyncio
+
+import sensors as sen
 
 
 def bme(chari, data):

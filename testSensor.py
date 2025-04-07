@@ -1,6 +1,7 @@
-import sensors as sen
 import time
 import sys
+
+import sensors as sen
 
 
 def main(serial, wifi, pw):
